@@ -1,0 +1,22 @@
+{
+  "name": "clm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheng52100/che.git"
+  },
+  "keywords": [
+    "sss"
+  ],
+  "author": "c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheng52100/che/issues"
+  },
+  "homepage": "https://github.com/cheng52100/che#readme"
+}
